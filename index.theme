@@ -1,0 +1,6 @@
+[X-GNOME-Metatheme]
+Name=custom-theme
+Type=X-GNOME-Metatheme
+Comment=custom-theme theme
+Encoding=UTF-8
+GtkTheme=custom-theme
